@@ -23,5 +23,5 @@ Each project reflects my learning process, problem-solving approach, and growing
 ### 🚀 Looking ahead
 I’m actively developing my skills in software development and looking to grow in a **collaborative, learning-focused environment**, where I can continue building solid technical foundations and contribute thoughtfully to a team.
 
-📫 You can also find me on LinkedIn: [www.linkedin.com/in/csenge-zsanett-kakula]
+📫 You can also find me on LinkedIn: <www.linkedin.com/in/csenge-zsanett-kakula>
 
